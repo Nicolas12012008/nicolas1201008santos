@@ -1,7 +1,8 @@
 ### Boas vindas ao meu perfil 🖤
 
 Meu nome Nicolas
- 
+
+Estou estudando no [Alura](https://www.alura.com.br)
 Estou estuando no mundo da internet
 Estou me desenvolvendo na internet
 Utiliso esse espaço para compartilhar meus projetos finalizados
